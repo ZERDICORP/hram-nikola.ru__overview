@@ -1,4 +1,5 @@
 # hram-nikola.ru
+Website of the Church of St. Nicholas.
 
 _P.S. https://hram-nikola.ru/_
 
