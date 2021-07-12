@@ -1,7 +1,7 @@
 # hram-nikola.ru
 Website of the Church of St. Nicholas.
 
-_P.S. the site is currently closed
+*P.S. the site is currently closed
 
 ![alt text](https://github.com/ZERDICORP/overview-hram-nikola.ru/blob/main/screenshots/s1.png?row=true)
 
