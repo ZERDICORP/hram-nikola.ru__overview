@@ -1,14 +1,15 @@
 # hram-nikola.ru
-Website of the Church of St. Nicholas.
 
-P.S. the site is currently closed
+```diff
+--[closed]--
+```
 
-![alt text](https://github.com/ZERDICORP/overview-hram-nikola.ru/blob/main/screenshots/s1.png?row=true)
+<kbd><img src="https://github.com/ZERDICORP/hram-nikola.ru-overview/blob/main/screenshots/s1.png?row=true" alt="screenshot"></kbd>
 
-![alt text](https://github.com/ZERDICORP/overview-hram-nikola.ru/blob/main/screenshots/s2.png?row=true)
+<kbd><img src="https://github.com/ZERDICORP/hram-nikola.ru-overview/blob/main/screenshots/s2.png?row=true" alt="screenshot"></kbd>
 
-![alt text](https://github.com/ZERDICORP/overview-hram-nikola.ru/blob/main/screenshots/s3.png?row=true)
+<kbd><img src="https://github.com/ZERDICORP/hram-nikola.ru-overview/blob/main/screenshots/s3.png?row=true" alt="screenshot"></kbd>
 
-![alt text](https://github.com/ZERDICORP/overview-hram-nikola.ru/blob/main/screenshots/s4.png?row=true)
+<kbd><img src="https://github.com/ZERDICORP/hram-nikola.ru-overview/blob/main/screenshots/s4.png?row=true" alt="screenshot"></kbd>
 
-![alt text](https://github.com/ZERDICORP/overview-hram-nikola.ru/blob/main/screenshots/s5.png?row=true)
+<kbd><img src="https://github.com/ZERDICORP/hram-nikola.ru-overview/blob/main/screenshots/s5.png?row=true" alt="screenshot"></kbd>
