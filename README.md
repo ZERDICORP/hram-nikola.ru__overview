@@ -1,4 +1,4 @@
-# hram-nikola.ru (closed)
+# [hram-nikola.ru](188.187.188.37:81)
 
 <kbd><img src="https://github.com/ZERDICORP/hram-nikola.ru-overview/blob/main/screenshots/s1.png?row=true" alt="screenshot"></kbd>
 
